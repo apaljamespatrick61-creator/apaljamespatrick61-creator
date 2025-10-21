@@ -18,13 +18,13 @@ I’m passionate about solving complex issues and collaborating with cross-funct
 
 ## 💼 Experience  
 
-### **Software Engineer** (March 2024 – Present)  
+### **Software Engineer** (Fligno Software Philippines Inc.) March 2024 – Present
 - Collaborate with QA and Product Managers to ensure timely delivery of features.  
 - Provide technical ideas and improvements for React Native development.  
 - Guide teammates on build issues, package integrations, and implementation strategies.
 - Assisted and guided **other development teams** on deployment processes and best practices.
 
-### **Associate Software Engineer** (August 2021 – 2023)  
+### **Associate Software Engineer** (Fligno Software Philippines Inc.) August 2021 – 2023
 - Developed and maintained mobile apps using React Native, improving app performance and reducing bugs.  
 - Contributed to Agile ceremonies and team discussions.  
 - Managed app distribution for both **iOS (App Store)** and **Android (Google Play Store)** ensuring smooth releases.  
